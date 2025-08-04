@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey there!!
 
-<!--
-**Chimalai/Chimalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **developer** and **automation engineer** focused on the **DeFi** and **Web3** ecosystems.
 
-Here are some ideas to get you started:
+I specialize in creating automation scripts for swaps, liquidity mining, and farming. I primarily work with **Python**, **Solidity**, and **Web3.py**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 VIP Community
+
+🚀 Unlock exclusive benefits with our VIP membership! 🤩 Get access to features like **script requests**, **Pharos satsuma Fogo oroswap kaleido monad Etc**, and **priority support**! 💼 developer only! ⏰
+
+To join our VIP room, please contact me directly on Telegram: **[https://t.me/PetrukStar](https://t.me/PetrukStar)**
+
+---
+
+### 📢 My Channel
+
+Get the latest info on airdrops and bots by joining 
+my channel: **[https://t.me/SeputarNewAirdropp](https://t.me/SeputarNewAirdropp)**
