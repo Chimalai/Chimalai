@@ -16,5 +16,5 @@ To join our VIP room, please contact me directly on Telegram: **[https://t.me/Pe
 
 ### 📢 My Channel
 
-Get the latest info on airdrops and bots by joining 
+Get the latest info on airdrops and bots by joining
 my channel: **[https://t.me/SeputarNewAirdropp](https://t.me/SeputarNewAirdropp)**
