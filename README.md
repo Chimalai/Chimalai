@@ -6,6 +6,21 @@ I specialize in creating automation scripts for swaps, liquidity mining, and far
 
 ---
 
+### 🤖 Bot's Features
+
+This is a glimpse of my automation bot interface.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chimalai/Chimalai/58ef5987acee7ae7ed92559655a62839740f147b/images/bot-button.jpg" alt="Bot Interface" width="600"/>
+</p>
+
+-   **Request Script**: Submit requests for custom-built scripts.
+-   **Check status request**: Track the status of your script requests.
+-   **Help**: Get assistance while using the bot.
+-   **Join VIP**: Gain access to our exclusive VIP membership.
+
+---
+
 ### 💼 VIP Community
 
 🚀 Unlock exclusive benefits with our VIP membership! 🤩 Get access to features like **script requests**, **Pharos satsuma Fogo oroswap kaleido monad Etc**, and **priority support**! 💼 developer only! ⏰
